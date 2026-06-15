@@ -126,6 +126,24 @@ PHP, MySQL, HTML, CSS, JavaScript
 [gili-ketapang-tourism-website](https://github.com/dienamsyadiah/gili-ketapang-tourism-website)
 
 ---
+### 6. AI Signal - Crypto Market Analysis
+
+AI Signal adalah aplikasi berbasis web untuk membantu menganalisis pergerakan market crypto berdasarkan timeframe tertentu. Sistem ini memberikan insight apakah candlestick berpotensi bergerak naik atau turun. Berdasarkan pengujian internal/backtesting, sistem menunjukkan tingkat ketepatan analisis sekitar 88%.
+
+**Fitur Utama:**
+- Analisis candlestick crypto
+- Prediksi arah market berdasarkan timeframe
+- Dashboard analisis market
+- Insight potensi pergerakan naik/turun
+- Sistem pendukung keputusan berbasis data
+
+**Teknologi:**  
+Next.js, TypeScript, JavaScript, Node.js, AI-Based Analysis
+
+**Repository:**  
+[ai-signal](https://github.com/dienamsyadiah/ai-signal)
+
+---
 
 ## Career Interest
 
