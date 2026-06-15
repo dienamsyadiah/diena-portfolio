@@ -35,6 +35,23 @@ Jotasi Web Application adalah aplikasi berbasis web yang mendukung pengelolaan d
 **Teknologi:** PHP, MySQL, HTML, CSS, JavaScript  
 **Repository:** [jotasi-tourism-website](https://github.com/dienamsyadiah/jotasi-tourism-website)
 
+### 7 Gili Ketapang Tourism Website
+
+Gili Ketapang Tourism Website adalah website pariwisata untuk menampilkan informasi destinasi Gili Ketapang. Project ini memiliki halaman pengguna dan halaman admin untuk mendukung pengelolaan konten website.
+
+**Fitur Utama:**
+- Landing page wisata
+- Halaman pengguna
+- Halaman admin
+- Pengelolaan konten website
+- Dokumentasi tampilan project
+
+**Teknologi:**
+PHP, MySQL, HTML, CSS, JavaScript
+
+**Repository:**  
+[gili-ketapang-tourism-website](https://github.com/dienamsyadiah/gili-ketapang-tourism-website)
+
 ## Career Interest
 - Data Analyst
 - Junior Data Analyst
