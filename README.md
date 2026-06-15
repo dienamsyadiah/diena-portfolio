@@ -27,8 +27,12 @@ Game edukasi 2D berbasis Unity dengan tema budaya Indonesia dan pembelajaran ana
 
 ### 5. GLOR RX AI E-Commerce
 Sistem informasi e-commerce kecantikan berbasis web dengan dashboard admin, database SQL, analisis AI, dan rekomendasi AI.
-
 [Detail Project](projects/glowx-ai-ecommerce.md) | [Repository](https://github.com/dienamsyadiah/glowx-ai-ecommerce)
+
+### 6.Jotasi Web Application
+Jotasi Web Application adalah aplikasi berbasis web yang mendukung pengelolaan data, tampilan pengguna, dan administrasi sistem.
+**Teknologi:** PHP, MySQL, HTML, CSS, JavaScript  
+**Repository:** [jotasi-web-application](https://github.com/dienamsyadiah/jotasi-web-application)
 
 ## Career Interest
 - Data Analyst
@@ -41,4 +45,4 @@ Sistem informasi e-commerce kecantikan berbasis web dengan dashboard admin, data
 ## Contact
 - Email: dienamsyadiah27@gmail.com
 - LinkedIn: https://www.linkedin.com/in/diena-msyadiah-322008259/
-- GitHub: github.com/dienamsyadiah
+- GitHub: https://github.com/dienamsyadiah/diena-portfolio/
