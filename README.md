@@ -26,7 +26,9 @@ Platform berbasis AI untuk e-commerce pertanian dan deteksi hama tanaman melalui
 Game edukasi 2D berbasis Unity dengan tema budaya Indonesia dan pembelajaran anak SD.
 
 ### 5. GLOR RX AI E-Commerce
-Sistem informasi e-commerce kecantikan berbasis web dengan fitur admin kelola barang dan dukungan AI.
+Sistem informasi e-commerce kecantikan berbasis web dengan dashboard admin, database SQL, analisis AI, dan rekomendasi AI.
+
+[Detail Project](projects/glowx-ai-ecommerce.md) | [Repository](https://github.com/dienamsyadiah/glowx-ai-ecommerce)
 
 ## Career Interest
 - Data Analyst
